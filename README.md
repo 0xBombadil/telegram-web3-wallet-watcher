@@ -1,4 +1,4 @@
-# Frank - The Telegram Bot that monitors web3 transactions and notifies you.
+# Telegram Bot that monitors web3 transactions and notifies you.
 
 ## How to use?
 
